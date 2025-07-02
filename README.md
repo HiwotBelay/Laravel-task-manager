@@ -29,27 +29,11 @@ This marks the start of my backend web development journey, and I'm proud to sha
 
 ## 📦 Setup Instructions
 
-```bash
 # Clone the project
-git clone https://github.com/your-username/task-manager.git
-cd task-manager
-
 # Install PHP dependencies
-composer install
-
 # Copy environment file and set up DB
-cp .env.example .env
-
 # Open .env and configure MySQL connection
-# DB_DATABASE=task_manager_db
-# DB_USERNAME=root
-# DB_PASSWORD=
-
 # Generate app key
-php artisan key:generate
-
 # Run migrations
-php artisan migrate
-
 # Start local server
-php artisan serve
+
