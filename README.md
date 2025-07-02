@@ -5,12 +5,6 @@ This marks the start of my backend web development journey, and I'm proud to sha
 
 ---
 
-## 📸 Preview
-
-<img src="https://i.imgur.com/2D1Z6eV.png" alt="Task Manager UI" width="700"/>
-
----
-
 ## 🛠️ Tech Stack
 
 - **Laravel 12** – PHP backend framework  
