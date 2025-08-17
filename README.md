@@ -1,4 +1,4 @@
-.....# 🚀 Laravel Task Manager App
+# 🚀 Laravel Task Manager App
 
 Welcome to my very first Laravel project — a **Task Manager** — built with ❤️ using **PHP, Laravel, and MySQL**.  
 This marks the start of my backend web development journey, and I'm proud to share this milestone!
